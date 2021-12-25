@@ -1,0 +1,4 @@
+tensorflow
+keras==2.6.*
+numpy
+matplotlib
